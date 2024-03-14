@@ -1,7 +1,7 @@
 # Iris-cluster
 
-##Select conda base version: 
-  for ex :- 3.11.5('base':conda)
+##Select conda base version
+  (for my case) :- 3.11.5('base':conda)
 
 Making neccesaary installations
 ```
